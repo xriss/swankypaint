@@ -31,7 +31,7 @@ Print Manual
 
 Get the Swanky Paint shortcut keys - http://paint.lo4d.net/data/swankycuts/SwankyPaintShortcuts.pdf
 
-[[http://dime.lo4d.net/data/swankyshortcut/swankyshortcut1.png|width=366px]][[http://dime.lo4d.net/data/swankyshortcut/swankyshortcut2.png|width=366px]]
+<img src="http://dime.lo4d.net/data/swankyshortcut/swankyshortcut1.png" width="366"><img src="http://dime.lo4d.net/data/swankyshortcut/swankyshortcut2.png" width="366">
 
 
 Updates
