@@ -39,7 +39,7 @@ Updates
 
 Swanky Paint is currently being developed and designed so things are constantly changing. Thank you for your patience and understanding.
 
-If you have a suggestion or feedback, or would just like to partake in discussions on d-portal, join in by creating a new issue [here](https://github.com/xriss/swankypaint/issues).
+If you have a suggestion or feedback, or would just like to partake in discussions, join in by creating a new issue [here](https://github.com/xriss/swankypaint/issues).
 
 We are particularly interested in your bug reports!
 
