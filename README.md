@@ -31,13 +31,13 @@ Print Manual
 
 Get the Swanky Paint shortcut keys - http://paint.lo4d.net/data/swankycuts/SwankyPaintShortcuts.pdf
 
-![SPshortcut1](http://dime.lo4d.net/data/swankyshortcut/swankyshortcut1.png) ![SPshortcut2](http://dime.lo4d.net/data/swankyshortcut/swankyshortcut2.png)
+[[http://dime.lo4d.net/data/swankyshortcut/swankyshortcut1.png|width=366px]][[http://dime.lo4d.net/data/swankyshortcut/swankyshortcut2.png|width=366px]]
 
 
 Updates
 ===================
 
-Swanky Paint is currently being developed and designed so things are constantly changing. Thank you for your patience and understanding.
+Swanky Paint is in a constant state of flux. Thank you for your patience and understanding.
 
 If you have a suggestion or feedback, or would just like to partake in discussions, join in by creating a new issue [here](https://github.com/xriss/swankypaint/issues).
 
