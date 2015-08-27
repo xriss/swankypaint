@@ -1,8 +1,8 @@
 # Swanky Paint
 
-![SP logo](http://dime.lo4d.net/data/swankylogo/swankylogo.png)
+<a href="http://dime.lo4d.net/dl/swpaint"><img src="http://dime.lo4d.net/data/swankylogo/swankylogo.png"/></a>
 
-Swanky Paint is a modern Deluxe Paint tribute.
+[Swanky Paint](http://dime.lo4d.net/dl/swpaint) is a modern Deluxe Paint tribute.
 
 **It should be noted that this is currently in active development so will contain bugs.**
 
