@@ -1,6 +1,6 @@
 # Swanky Paint
 
-<a href="http://paint.wetgenes.com"><img src="http://paint.wetgenes.com/data/swankylogo/swankylogo.png"/></a>
+<a href="http://paint.wetgenes.com"><img src="http://dime.lo4d.net/data/swankylogo/swankylogo.png"/></a>
 
 [Swanky Paint](http://paint.wetgenes.com) is a modern Deluxe Paint tribute.
 
