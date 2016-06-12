@@ -29,7 +29,7 @@ Features
 Print Manual
 ===================
 
-Get the Swanky Paint shortcut keys - http://paint.lo4d.net/data/swankycuts/SwankyPaintShortcuts.pdf
+Get the Swanky Paint shortcut keys - http://paint.wetgenes.com/data/swankycuts/SwankyPaintShortcuts.pdf
 
 <img src="http://dime.lo4d.net/data/swankyshortcut/swankyshortcut1.png" width="360"><img src="http://dime.lo4d.net/data/swankyshortcut/swankyshortcut2.png" width="360">
 
@@ -43,4 +43,4 @@ If you have a suggestion or feedback, or would just like to partake in discussio
 
 We are particularly interested in your bug reports!
 
-For more information, go [here](http://paint.wetgenes.com/about).
+For more information, go [here](http://dime.lo4d.net/dl/swpaint).
