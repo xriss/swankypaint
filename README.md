@@ -43,4 +43,4 @@ If you have a suggestion or feedback, or would just like to partake in discussio
 
 We are particularly interested in your bug reports!
 
-For more information, go [here](http://dime.lo4d.net/dl/swpaint).
+For more information, go [here](http://paint.wetgenes.com/about).
