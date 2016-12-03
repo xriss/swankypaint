@@ -44,3 +44,9 @@ If you have a suggestion or feedback, or would just like to partake in discussio
 We are particularly interested in your bug reports!
 
 For more information, go [here](http://paint.wetgenes.com/about).
+
+
+Get
+===================
+
+Available on [Steam](http://store.steampowered.com/app/432030).
