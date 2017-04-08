@@ -50,3 +50,5 @@ Get
 ===================
 
 Available on [Steam](http://store.steampowered.com/app/432030).
+
+Although Swanky Paint is not Open Source 99% of its source code is part of the [GameCake](https://github.com/xriss/gamecake) engine with the rest of its lua files (mostly GUI) provided via steam/etc. So a purchase combined with gamecake will give you full access to all of the source code.
